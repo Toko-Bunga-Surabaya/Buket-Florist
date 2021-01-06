@@ -27,4 +27,3 @@ Hubungi di:
 
 Info lengkap bisa klik di:
 [Toko Bunga Surabaya](https://www.bungabuket.com/toko-bunga-surabaya-jual-buket-mawar/ "Toko Bunga di Surabaya")
-<amp-img class="verticalimg" src="{{page.image}}" layout="responsive" height="400px" width="400px"></amp-img>
