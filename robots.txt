@@ -1,0 +1,5 @@
+# robotstxt.org/
+
+User-agent: *
+
+Sitemap: https://toko-bunga-surabaya.github.io/Buket-Florist/sitemap.xml
