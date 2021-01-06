@@ -27,4 +27,4 @@ Hubungi di:
 
 Info lengkap bisa klik di:
 [Toko Bunga Surabaya](https://www.bungabuket.com/toko-bunga-surabaya-jual-buket-mawar/ "Toko Bunga di Surabaya")
-![PAPAN BUNGA SURABAYA](https://www.bungabuket.com/wp-content/uploads/2020/12/toko-bunga-buket.jpg "papan bunga surabaya asry florist")
+<amp-img class="verticalimg" src="{{page.image}}" layout="responsive" height="400px" width="400px"></amp-img>
