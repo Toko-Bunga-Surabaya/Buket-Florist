@@ -1,0 +1,22 @@
+# Site settings
+title: Buket Florist
+subtitle: "Bunga Buket Florist"
+header-img: img/home-bg.jpg
+image: img/home-bg.jpg
+copyright_name: Bunga Buket
+description: "Toko Bunga Buket Asry Florist."
+url: "https://toko-bunga-surabaya.github.io/Buket-Florist/"
+author: Bunga Buket
+twitter_username: AsryFlorist
+github_username:  bungaasryflorist
+facebook_username:  asryflorist
+email_username:  admin@asryflorist.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
